@@ -5,6 +5,9 @@ Data:
 - https://www.kaggle.com/ikarus777/best-artworks-of-all-time
 - This dataset has images of artworks by various artists. There is also a csv with more information about the artists (their style/genre, their names, nationality, etc)
 - I plan to work with the images and the names of the artists. If I have time, I may work with the style as well
+EDIT: I switched to the following dataset of impressionist paintings: https://www.kaggle.com/delayedkarma/impressionist-classifier-data
+- the data is separated into training and validation folders
+- there are ten folders for each class within the training and validation folders, and there are ~400 images corresponding to each class
 
 Tools/Algorithms:
 - I expect to use a CNN for this project, probably wih keras?...I'm not sure exactly what else beyond that at this point
